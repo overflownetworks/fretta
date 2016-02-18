@@ -1,0 +1,7 @@
+"crash"
+{
+	"base"				"fretta13"
+	"title"				"Crash N Smash"
+	"menusystem"		"1"
+	"selectable"		"1"
+}

@@ -1,0 +1,8 @@
+"deathrun2d"
+{
+	"base"		"fretta13"
+	"title"		"Deathrun 2D"
+	"maps"		"^dr2d_"
+	"menusystem"	"1"
+	"selectable"		"1"
+}

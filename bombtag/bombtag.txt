@@ -1,0 +1,13 @@
+"bombtag"
+{
+	"base"				"fretta13"
+	"title"				"Bomb Tag"
+	"menusystem"		"1"
+	"maps"				"bt_"
+
+	"selectable"		"1"
+	"fretta_maps"
+	{
+		"1"	"bt_"
+	}
+}
